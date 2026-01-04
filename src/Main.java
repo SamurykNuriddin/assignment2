@@ -8,7 +8,6 @@ public class Main {
 
         List<Person> people = new ArrayList<>();
 
-        // 2. Add your Employees and Students to the list
         people.add(new Employee("Samuryk", "Nuriddin", "App dev", 500000.78));
         people.add(new Employee("Arman", "Armanovich", "Content Crator", 50000.00));
         people.add(new Student("Marat", "Maratovich", 2.0));

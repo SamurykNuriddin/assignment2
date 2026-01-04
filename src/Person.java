@@ -6,7 +6,7 @@ public class Person implements Payable, Comparable<Person> {
 
 
     public Person() {
-        this.id = id_gen++; // Auto-increment ID
+        this.id = id_gen++;
     }
 
     public Person(String name, String surname) {
